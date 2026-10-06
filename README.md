@@ -69,7 +69,7 @@ Feed it any IP address or domain name — GhostTrace traces it across multiple A
 ## 🛠 Installation
 
 ```bash
-git clone https://github.com/BangladeshCyberSpectre/ghosttrace
+git clone https://github.com/bangladeshcyberspectre/GhostTrace.git
 cd ghosttrace
 pip install -r requirements.txt
 python ghosttrace.py
